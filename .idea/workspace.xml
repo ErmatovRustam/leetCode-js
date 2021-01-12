@@ -27,8 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaa1038c-80b2-4599-b29c-8f79e75d40bb" name="Default Changelist" comment="leetCode solutions with descriptions">
-      <change afterPath="$PROJECT_DIR$/leet-412-Fizz-Buzz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet-1672-Richest Customer-Wealth.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610430204040</updated>
       <workItem from="1610430205946" duration="4153000" />
+      <workItem from="1610479315631" duration="173000" />
     </task>
     <task id="LOCAL-00001" summary="leetCode solutions with descriptions">
       <created>1610431239573</created>
@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610438077933</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="leetCode solutions with descriptions">
+      <created>1610479331644</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610479331644</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,11 +140,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetCode solutions with descriptions" />
@@ -224,10 +244,10 @@
     </state>
     <state width="1419" height="304" key="GridCell.Tab.3.right/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610436691784" />
     <state width="1419" height="304" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1610451490061" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1610438093483">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1610479337319">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610438093483" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610479337319" />
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.157.1366.743@0.0.1440.900" timestamp="1610431269837" />
     <state x="521" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610431198925">
       <screen x="0" y="0" width="1440" height="900" />
@@ -239,12 +259,10 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/leet-1480-Running-Sum-of-1d-Array.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/leet-1-two-sum.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

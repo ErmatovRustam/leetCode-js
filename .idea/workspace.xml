@@ -28,7 +28,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aaa1038c-80b2-4599-b29c-8f79e75d40bb" name="Default Changelist" comment="leetCode solutions with descriptions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610430204040</updated>
       <workItem from="1610430205946" duration="4153000" />
-      <workItem from="1610479315631" duration="1325000" />
+      <workItem from="1610479315631" duration="1449000" />
     </task>
     <task id="LOCAL-00001" summary="leetCode solutions with descriptions">
       <created>1610431239573</created>

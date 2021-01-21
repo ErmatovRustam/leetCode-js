@@ -27,9 +27,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaa1038c-80b2-4599-b29c-8f79e75d40bb" name="Default Changelist" comment="leetCode solutions with descriptions">
-      <change afterPath="$PROJECT_DIR$/leet-1108-IP-address.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet-1431-kids-with-candies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet-1716-leet-bank.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet-1470-shuffle-Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet-344-reverse-string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet-771-jewels-stones.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,14 +65,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.leet-204-count-primes.js">
-    <configuration name="leet-1-two-sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leet-1-two-sum.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="leet-1480-Running-Sum-of-1d-Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leet-1480-Running-Sum-of-1d-Array.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.leet-771-jewels-stones.js">
+    <configuration name="leet-1470-shuffle-Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leet-1470-shuffle-Array.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="leet-1716-leet-bank.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leet-1716-leet-bank.js" working-dir="$PROJECT_DIR$">
@@ -80,13 +82,16 @@
     <configuration name="leet-412-Fizz-Buzz.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leet-412-Fizz-Buzz.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="leet-771-jewels-stones.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leet-771-jewels-stones.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.leet-771-jewels-stones.js" />
+        <item itemvalue="Node.js.leet-1470-shuffle-Array.js" />
         <item itemvalue="Node.js.leet-204-count-primes.js" />
         <item itemvalue="Node.js.leet-1716-leet-bank.js" />
         <item itemvalue="Node.js.leet-412-Fizz-Buzz.js" />
-        <item itemvalue="Node.js.leet-1-two-sum.js" />
-        <item itemvalue="Node.js.leet-1480-Running-Sum-of-1d-Array.js" />
       </list>
     </recent_temporary>
   </component>
@@ -103,6 +108,7 @@
       <workItem from="1610641461204" duration="527000" />
       <workItem from="1610775140400" duration="896000" />
       <workItem from="1611141286929" duration="1163000" />
+      <workItem from="1611210628867" duration="2766000" />
     </task>
     <task id="LOCAL-00001" summary="leetCode solutions with descriptions">
       <created>1610431239573</created>
@@ -195,30 +201,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="leetCode solutions with descriptions" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="662" height="184" key="GridCell.Tab.0.bottom" timestamp="1611141596938">
+    <state width="874" height="184" key="GridCell.Tab.0.bottom" timestamp="1611212668115">
       <screen x="1440" y="157" width="1366" height="743" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610439817617" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610796168730" />
-    <state width="662" height="184" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611141596938" />
-    <state width="662" height="184" key="GridCell.Tab.0.center" timestamp="1611141596937">
+    <state width="874" height="184" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611212668115" />
+    <state width="874" height="184" key="GridCell.Tab.0.center" timestamp="1611212668114">
       <screen x="1440" y="157" width="1366" height="743" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610439817615" />
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1610796168729" />
-    <state width="662" height="184" key="GridCell.Tab.0.center/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611141596937" />
-    <state width="662" height="184" key="GridCell.Tab.0.left" timestamp="1611141596936">
+    <state width="874" height="184" key="GridCell.Tab.0.center/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611212668114" />
+    <state width="874" height="184" key="GridCell.Tab.0.left" timestamp="1611212668114">
       <screen x="1440" y="157" width="1366" height="743" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610439817614" />
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1610796168728" />
-    <state width="662" height="184" key="GridCell.Tab.0.left/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611141596936" />
-    <state width="662" height="184" key="GridCell.Tab.0.right" timestamp="1611141596937">
+    <state width="874" height="184" key="GridCell.Tab.0.left/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611212668114" />
+    <state width="874" height="184" key="GridCell.Tab.0.right" timestamp="1611212668115">
       <screen x="1440" y="157" width="1366" height="743" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610439817616" />
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1610796168729" />
-    <state width="662" height="184" key="GridCell.Tab.0.right/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611141596937" />
+    <state width="874" height="184" key="GridCell.Tab.0.right/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611212668115" />
     <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1610451490059">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -279,13 +285,17 @@
     </state>
     <state width="1419" height="304" key="GridCell.Tab.3.right/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610436691784" />
     <state width="1419" height="304" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1610451490061" />
-    <state x="1744" y="311" key="Vcs.Push.Dialog.v2" timestamp="1611141736619">
+    <state x="2250" y="235" key="RollbackChangesDialog" timestamp="1611144711040">
+      <screen x="1440" y="157" width="1366" height="743" />
+    </state>
+    <state x="2250" y="235" key="RollbackChangesDialog/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611144711040" />
+    <state x="1744" y="311" key="Vcs.Push.Dialog.v2" timestamp="1611144737048">
       <screen x="1440" y="157" width="1366" height="743" />
     </state>
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610479507631" />
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.157.1366.743@0.0.1440.900" timestamp="1610431269837" />
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1610641602955" />
-    <state x="1744" y="311" key="Vcs.Push.Dialog.v2/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611141736619" />
+    <state x="1744" y="311" key="Vcs.Push.Dialog.v2/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611144737048" />
     <state x="521" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610431198925">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

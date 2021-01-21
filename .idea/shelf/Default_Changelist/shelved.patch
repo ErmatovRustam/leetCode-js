@@ -1,0 +1,19 @@
+Index: leet-1716-leet-bank.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- leet-1716-leet-bank.js	(date 1610777207537)
++++ leet-1716-leet-bank.js	(date 1610777207537)
+@@ -0,0 +1,10 @@
++var totalMoney = function(n) {
++    if(n <= 7) return Math.fact(n)
++    let week = (n  / 7).toFixed(0);
++    let output = 0;
++    for(let i = 1; i<= week; i++){
++
++    }
++};
++
++console.log(totalMoney(3))
+\ No newline at end of file

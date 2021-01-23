@@ -27,9 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaa1038c-80b2-4599-b29c-8f79e75d40bb" name="Default Changelist" comment="leetCode solutions with descriptions">
-      <change afterPath="$PROJECT_DIR$/leet-1323-max69num.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet-1678-goal-parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet-709-toLowerCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet-557-reverse-words.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +63,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.leet-1323-max69num.js">
+  <component name="RunManager" selected="Node.js.leet-557-reverse-words.js">
     <configuration name="leet-1323-max69num.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leet-1323-max69num.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -75,7 +73,7 @@
     <configuration name="leet-1678-goal-parser.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leet-1678-goal-parser.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="leet-204-count-primes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leet-204-count-primes.js" working-dir="$PROJECT_DIR$">
+    <configuration name="leet-557-reverse-words.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leet-557-reverse-words.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="leet-771-jewels-stones.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leet-771-jewels-stones.js" working-dir="$PROJECT_DIR$">
@@ -83,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.leet-557-reverse-words.js" />
         <item itemvalue="Node.js.leet-1323-max69num.js" />
         <item itemvalue="Node.js.leet-1678-goal-parser.js" />
         <item itemvalue="Node.js.leet-771-jewels-stones.js" />
         <item itemvalue="Node.js.leet-1470-shuffle-Array.js" />
-        <item itemvalue="Node.js.leet-204-count-primes.js" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +103,8 @@
       <workItem from="1610775140400" duration="896000" />
       <workItem from="1611141286929" duration="1163000" />
       <workItem from="1611210628867" duration="2934000" />
-      <workItem from="1611306085234" duration="2019000" />
+      <workItem from="1611306085234" duration="2368000" />
+      <workItem from="1611422840899" duration="283000" />
     </task>
     <task id="LOCAL-00001" summary="leetCode solutions with descriptions">
       <created>1610431239573</created>
@@ -198,30 +197,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="leetCode solutions with descriptions" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="184" key="GridCell.Tab.0.bottom" timestamp="1611308743625">
+    <state width="1345" height="184" key="GridCell.Tab.0.bottom" timestamp="1611423063905">
       <screen x="1440" y="157" width="1366" height="743" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610439817617" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610796168730" />
-    <state width="1345" height="184" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611308743625" />
-    <state width="1345" height="184" key="GridCell.Tab.0.center" timestamp="1611308743624">
+    <state width="1345" height="184" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611423063905" />
+    <state width="1345" height="184" key="GridCell.Tab.0.center" timestamp="1611423063904">
       <screen x="1440" y="157" width="1366" height="743" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610439817615" />
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1610796168729" />
-    <state width="1345" height="184" key="GridCell.Tab.0.center/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611308743624" />
-    <state width="1345" height="184" key="GridCell.Tab.0.left" timestamp="1611308743623">
+    <state width="1345" height="184" key="GridCell.Tab.0.center/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611423063904" />
+    <state width="1345" height="184" key="GridCell.Tab.0.left" timestamp="1611423063903">
       <screen x="1440" y="157" width="1366" height="743" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610439817614" />
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1610796168728" />
-    <state width="1345" height="184" key="GridCell.Tab.0.left/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611308743623" />
-    <state width="1345" height="184" key="GridCell.Tab.0.right" timestamp="1611308743624">
+    <state width="1345" height="184" key="GridCell.Tab.0.left/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611423063903" />
+    <state width="1345" height="184" key="GridCell.Tab.0.right" timestamp="1611423063904">
       <screen x="1440" y="157" width="1366" height="743" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.132.1366.768@0.0.1440.900" timestamp="1610439817616" />
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1610796168729" />
-    <state width="1345" height="184" key="GridCell.Tab.0.right/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611308743624" />
+    <state width="1345" height="184" key="GridCell.Tab.0.right/0.25.1440.875/1440.157.1366.743@1440.157.1366.743" timestamp="1611423063904" />
     <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1610451490059">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

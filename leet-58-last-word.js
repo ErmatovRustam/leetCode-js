@@ -1,5 +1,13 @@
-var smallerNumbersThanCurrent = function(nums) {
+/**
+ * @param {string} s
+ * @return {number}
+ */
 
+var lengthOfLastWord = function(s) {
+    let arr = s.split(' ');
+  for(let i  = arr.length - 1; i>=0; i--){
+    if(arr[i] !== ''){
+      return arr[i].length
+    }
+  }
 };
-
-console.log(smallerNumbersThanCurrent([8,1,2,2,3]))
